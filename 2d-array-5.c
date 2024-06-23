@@ -1,5 +1,3 @@
-//5. Write a program that takes a matrix as input and creates its transpose matrix and prints it.
-
 #include<stdio.h>
 
 int main()
@@ -46,5 +44,3 @@ int main()
     }
    return 0 ;
 }
-    //This is the END of this program.
-    //Thank you.
